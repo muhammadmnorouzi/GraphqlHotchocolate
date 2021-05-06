@@ -1,0 +1,1 @@
+#This is a GraphQL api using dotnet and Hotchocolate package
